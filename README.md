@@ -59,18 +59,6 @@ Housing Prices Dataset (from Kaggle)
 **Key Skills:**  
 Regression, feature engineering, model performance evaluation
 
----
-
-## 📂 Folder Structure
-
-📁 ai-ml-internship-tasks-developershub/
-│
-├── Task_1_Iris_Exploration.ipynb
-├── Task_3_Heart_Disease_Prediction.ipynb
-│ ├── heart_disease_uci.csv
-├── Task_6_House_Price_Prediction.ipynb
-│ └── \housing.csv
-└── README.md
 
 ---
 
